@@ -1,0 +1,1 @@
+file_contents = "def sum_numbers(a, b):\n    return a + b
