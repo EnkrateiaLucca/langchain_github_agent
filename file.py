@@ -1,1 +1,1 @@
-file_contents = "def divide(a, b):\n    return a / b
+file_contents = "def subtract(a, b):\n    return a - b
